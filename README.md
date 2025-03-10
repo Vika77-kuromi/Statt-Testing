@@ -1,6 +1,10 @@
 # Statt-Testing
+## Installing Dependencies
+Before run the code, install all the required packages.
+```bash
+pip install -r requirements.txt
 
-## Setting Up Your OpenAI API Key
+## Setting Up OpenAI API Key
 This chatbox requires an OpenAI API key to function. Follow these steps:
 
 1. Users need to create a new file named ".env" in the same directory where the chatbot code is located.
