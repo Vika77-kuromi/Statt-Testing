@@ -1,5 +1,5 @@
 # Statt-Testing
-Welcome to the **Policy Chatbot**! This chatbot allows you to ask questions related to **cybersecurity, IPv6 policy, IT policy, unclassified information, and data privacy.**  
+Welcome to the **Policy Chatbot**! This chatbot allows you to ask questions related to **cybersecurity, IT policies, data privacy, and compliance regulations.** All information is collected from U.S. Department of Commerce (DOC) website
 Follow the steps below to set up and run the chatbot.
 
 ## 1️⃣First Thing to Do--Clone the Repository
