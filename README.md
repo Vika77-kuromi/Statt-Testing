@@ -8,9 +8,10 @@ git clone https://github.com/Vika77-kuromi/Statt-Testing.git
 cd Statt-Testing
 ```
 
-## 2️⃣create a virtual environment to test this application. (Optional)
+## 2️⃣ Create a virtual environment to test this application. (Optional)
+Run the following code to create a virtual environment with Python 3.8:
 ```bash
-python3 -m venv venv
+python3.8 -m venv venv 
 source venv/bin/activate  # For macOS/Linux
 venv\Scripts\activate      # For Windows
 ```
