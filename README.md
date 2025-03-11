@@ -1,6 +1,5 @@
 # Statt-Testing
-Welcome to the **Policy Chatbot**! This chatbot allows you to ask questions related to **cybersecurity, IT policies, data privacy, and compliance regulations.** All information is collected from U.S. Department of Commerce (DOC) website
-Follow the steps below to set up and run the chatbot.
+Welcome to the **Policy Chatbot**! This chatbot allows you to ask questions related to **cybersecurity, IT policies, data privacy, and compliance regulations.** All information is collected from U.S. Department of Commerce (DOC) website. Follow the steps below to set up and run the chatbot.
 
 ## 1️⃣First Thing to Do--Clone the Repository
 To start, **clone this repository** to your local machine:
